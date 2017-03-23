@@ -1,5 +1,1 @@
-..................................................................
-i have kept te source code for the sake of understanding
-do NOT compile again
-i want to check if the executable file runs independently
-..................................................................
+before decrypting close yourDiary.txt
